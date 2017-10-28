@@ -119,3 +119,6 @@ out
 gen
 /playground/
 /deployment/SetSecret.bat
+.DS_Store
+*.swp
+log/*.log

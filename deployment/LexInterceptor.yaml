@@ -4,7 +4,7 @@ Description: Lex Interceptor
 Parameters:
   SourceBucket:
     Type: String
-    Default: howwhofeelinvideopackage
+    Default: healthychatbottranslate
     Description: Bucket Lambda deployment packages
   FacebookVerifyToken:
     Type: String
@@ -22,6 +22,7 @@ Parameters:
     Default: InfoDay_InfoDayBot
   GoogleApiKey:
     Type: String
+    Default: AIzaSyA_H6StgNqXFMGMSL3iBjuzWD8XdR5Vn4c
     NoEcho: true
   AllowedLanguages:
     Type: String

@@ -22,7 +22,7 @@ Parameters:
     NoEcho: true
     Type: String
   SourceBucket:
-    Default: howwhofeelinvideopackage
+    Default: healthychatbottranslate
     Description: Bucket Lambda deployment packages
     Type: String
 Resources:

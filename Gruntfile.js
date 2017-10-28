@@ -12,7 +12,7 @@ grunt.initConfig({
     },
     lambda_deploy: {
         awsLexInterceptor: {
-            arn: 'arn:aws:lambda:us-east-1:894598711988:function:LexInterceptor-FacebookLexProxy-TUB2RGDX45MJ',
+            arn: 'arn:aws:lambda:us-east-1:319271047826:function:LexInterceptor',
             options: {
                 region: 'us-east-1',
                 handler: 'facebookInterceptor.handler'
